@@ -39,7 +39,7 @@ h1 {
    text-align: center;
    color: firebrick;
    text-shadow: 5px 3px 3px rgba(206, 6, 6, 0.233);
-   font-family: "Proxima Nova Rg";
+   font-family: "Proxima Nova Rg", sans-serif;
    letter-spacing: 7px;
    font-style: oblique;
    text-decoration: overline;
@@ -117,7 +117,7 @@ span {
 .list .list-item > .list-link {
    color: red;
    font-size: 17px;
-   font-family: "Proxima Nova Lt";
+   font-family: "Proxima Nova Lt", sans-serif;
    letter-spacing: 3px;
    word-spacing: 1px;
 }
